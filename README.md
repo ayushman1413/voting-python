@@ -31,5 +31,11 @@ A **simple and interactive Python script** to check if someone is eligible based
 2. Open a terminal or command prompt.  
 3. Run the Python script:
 
+
+
+Author 
+Ayushman
+ayushman1413@gmail.com
+
 ```bash
 python age_checker.py
